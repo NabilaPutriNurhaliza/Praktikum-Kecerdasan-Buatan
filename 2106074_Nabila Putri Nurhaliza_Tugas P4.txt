@@ -1,0 +1,6 @@
+Daftar pertanyaan:
+1. is_ibu(amy, john).
+2. is_suami(david, karen).
+3. is_anak(mary, susan).
+4. is_sodara(susan, ray).
+5. is_istri(karen, jack).
